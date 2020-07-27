@@ -51,15 +51,21 @@ a quantidade disponível em estoque.
 
 	
 Imagem da primeira versão do DER
-	Imagem da segunda versão do DER normalizado
-	Arquivo .sql com os comandos DDL para criação da estrutura do bd.
-	Arquivo .sql com os comandos DML contendo os inserts, 1 update e 1 delete
-	Arquivo .sql com os comandos DQL:
+	
+	* Imagem da segunda versão do DER normalizado
+	
+	* Arquivo .sql com os comandos DDL para criação da estrutura do bd.
+	
+	* Arquivo .sql com os comandos DML contendo os inserts, 1 update e 1 delete
+	
+	* Arquivo .sql com os comandos DQL:
 	
 		
 Pelo menos 2 com algum tipo de junção
-		Pelo menos 1 com usando count() e group by()
-		1 SQL para construção de nota fiscal
+		
+		* Pelo menos 1 com usando count() e group by()
+		
+		* 1 SQL para construção de nota fiscal
 	
 	
 Uma cópia do banco de dados completo (.db)
