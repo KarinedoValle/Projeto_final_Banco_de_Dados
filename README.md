@@ -52,13 +52,13 @@ a quantidade disponível em estoque.
 	
 Imagem da primeira versão do DER
 	
-	* Imagem da segunda versão do DER normalizado
+		* Imagem da segunda versão do DER normalizado
 	
-	* Arquivo .sql com os comandos DDL para criação da estrutura do bd.
+		* Arquivo .sql com os comandos DDL para criação da estrutura do bd.
 	
-	* Arquivo .sql com os comandos DML contendo os inserts, 1 update e 1 delete
+		* Arquivo .sql com os comandos DML contendo os inserts, 1 update e 1 delete
 	
-	* Arquivo .sql com os comandos DQL:
+		* Arquivo .sql com os comandos DQL:
 	
 		
 Pelo menos 2 com algum tipo de junção
