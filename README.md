@@ -1,5 +1,5 @@
 # Projeto_final_Banco_de_Dados
-Projeto final da matéria de Banco de Dados na [Residência de Software](http://serratec.org/residencia-de-software/). 
+Projeto final da matéria de Banco de Dados utilizando DBeaver e SQLite na [Residência de Software](http://serratec.org/residencia-de-software/). 
 
 - Feito em grupo com [Roberto Dos Santos Barbosa](https://github.com/rbarbosa1985), [Eduardo Bosco de Carvalho Silva](https://github.com/eduardobosco), [Paulo Eduardo Silva dos Santos](https://github.com/pessantos) e [Tatiane Fernandes Lanzetti da Costa](https://github.com/tatianelanzetti).
 
